@@ -1,0 +1,257 @@
+2025-09-05 18:20:36,761 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:20:36,762 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:20:36,795 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:20:36,796 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:20:36,796 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:20:36,796 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:20:36,796 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:20:36,796 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:20:36,797 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:20:36,797 - __main__ - ERROR - ❌ Erro fatal: Expected an application command, received method instead
+2025-09-05 18:20:36,798 - __main__ - INFO - 🛑 Bot finalizado
+2025-09-05 18:21:12,559 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:21:12,560 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:21:12,598 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:21:12,598 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:21:12,598 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:21:12,599 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:21:12,599 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:21:12,599 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:21:12,599 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:21:12,599 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:21:12,599 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:21:12,599 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:21:12,599 - discord.client - INFO - logging in using static token
+2025-09-05 18:21:13,450 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: c10371a2baa7d5d3cef295d87fa92a3b).
+2025-09-05 18:21:15,456 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:21:15,457 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:21:16,238 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 18:21:29,504 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7fde86a60e10>: The signature for command 'skgpt' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-09-05 18:21:39,193 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7fde86a60e10>: The signature for command 'skgpt' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-09-05 18:22:01,677 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:22:01,678 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:22:01,710 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:22:01,710 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:22:01,710 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:22:01,711 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:22:01,711 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:22:01,711 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:22:01,711 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:22:01,711 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:22:01,711 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:22:01,711 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:22:01,711 - discord.client - INFO - logging in using static token
+2025-09-05 18:22:02,507 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 74869dedc47a85e3e001df8329cbc384).
+2025-09-05 18:22:04,528 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:22:04,529 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:22:04,765 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 18:22:21,382 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7fde86a60e10>: The signature for command 'skgpt' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-09-05 18:22:21,421 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7fe6dc1e8ed0>: The signature for command 'skgpt' is different from the one provided by Discord. This can happen because either your code is out of date or you have not synced the commands with Discord, causing the mismatch in data. It is recommended to sync the command tree to fix this issue.
+2025-09-05 18:22:21,552 - bot.handlers.error_handler - ERROR - ❌ Não foi possível enviar mensagem de erro
+2025-09-05 18:24:18,570 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:24:18,571 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:24:18,598 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:24:18,598 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:24:18,598 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:24:18,598 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:24:18,598 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:24:18,598 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:24:18,598 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:24:18,598 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:24:18,598 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:24:18,598 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:24:18,599 - discord.client - INFO - logging in using static token
+2025-09-05 18:24:19,408 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: a012ad851ba8c874dbdecd0d11c4ead9).
+2025-09-05 18:24:21,414 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:24:21,414 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:24:21,745 - bot.handlers.event_handler - INFO - 🌐 0 comandos sincronizados (limpos e recarregados)
+2025-09-05 18:24:49,489 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:24:49,491 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:24:49,527 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:24:49,528 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:24:49,528 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:24:49,528 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:24:49,529 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:24:49,530 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:24:49,530 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:24:49,530 - discord.client - INFO - logging in using static token
+2025-09-05 18:24:50,273 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: f51986fcec4f39a15aef905b04648baa).
+2025-09-05 18:24:52,278 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:24:52,278 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:24:52,544 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 18:26:27,405 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:26:27,406 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:26:27,439 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:26:27,440 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:26:27,440 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:26:27,440 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:26:27,441 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:26:27,441 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:26:27,441 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:26:27,441 - discord.client - INFO - logging in using static token
+2025-09-05 18:26:28,412 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 98e3dc407ee895d1928b4f86d004b426).
+2025-09-05 18:26:30,416 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:26:30,417 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:26:30,720 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 18:30:14,095 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:30:14,095 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:30:14,095 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:30:14,133 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7f5c1003bfd0>: Command 'skgpt' raised an exception: TypeError: 'Command' object is not callable
+2025-09-05 18:30:32,301 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:30:32,301 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:30:32,301 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:30:32,302 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7f5c1003bfd0>: Command 'skgpt' raised an exception: TypeError: 'Command' object is not callable
+2025-09-05 18:31:17,172 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:31:17,172 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:31:17,202 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:31:17,202 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:31:17,202 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:31:17,202 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:31:17,203 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:31:17,203 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:31:17,203 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:31:17,203 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:31:17,203 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:31:17,203 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:31:17,203 - discord.client - INFO - logging in using static token
+2025-09-05 18:31:17,895 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 129e7f362c740043cb6c8f164054c601).
+2025-09-05 18:31:19,922 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:31:19,923 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:31:20,348 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 18:31:32,689 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:32:03,815 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:32:21,305 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:32:38,422 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:32:52,881 - bot.services.gif_service - INFO - ✅ GIF encontrado para: neymar
+2025-09-05 18:33:10,996 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 18:35:37,918 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 18:35:37,919 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 18:35:37,966 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 18:35:37,968 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 18:35:37,970 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 18:35:37,971 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 18:35:37,971 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 18:35:37,971 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 18:35:37,973 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 18:35:37,975 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 18:35:37,975 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 18:35:37,975 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 18:35:37,975 - discord.client - INFO - logging in using static token
+2025-09-05 18:35:39,176 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 67f2f6cd363350aa9cb37e75df48f566).
+2025-09-05 18:35:41,184 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 18:35:41,185 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 18:35:41,577 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 19:40:06,444 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 67f2f6cd363350aa9cb37e75df48f566.
+2025-09-05 19:49:25,216 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:50:02,328 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:50:28,536 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 19:50:28,539 - bot.services.groq_service - WARNING - ⚠️ Resposta da IA não é JSON válido
+2025-09-05 20:03:57,481 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 20:04:46,514 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 20:04:50,462 - bot.commands.chat_commands - ERROR - ❌ Erro no comando skgpt: 404 Not Found (error code: 10008): Unknown Message
+2025-09-05 20:04:50,547 - bot.handlers.error_handler - ERROR - ❌ Erro no comando <discord.app_commands.commands.Command object at 0x7ffab9798690>: Command 'skgpt' raised an exception: NotFound: 404 Not Found (error code: 10008): Unknown Message
+2025-09-05 20:04:50,630 - bot.handlers.error_handler - ERROR - ❌ Não foi possível enviar mensagem de erro
+2025-09-05 20:05:19,644 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 20:06:05,397 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 20:06:49,133 - httpx - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-09-05 20:11:54,353 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:11:54,356 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:11:54,391 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:11:54,391 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:11:54,391 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:11:54,391 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:11:54,391 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:11:54,391 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:11:54,391 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:11:54,392 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 20:11:54,392 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:11:54,392 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:11:54,392 - discord.client - INFO - logging in using static token
+2025-09-05 20:11:55,067 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: b8288a9731f69e8a58ed90614b927462).
+2025-09-05 20:11:57,080 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 20:11:57,080 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 20:11:57,365 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 20:18:50,251 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:18:50,252 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:18:50,288 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:18:50,288 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:18:50,289 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:18:50,289 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:18:50,289 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:18:50,289 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:18:50,289 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:18:50,289 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 20:18:50,290 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:18:50,290 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:18:50,290 - discord.client - INFO - logging in using static token
+2025-09-05 20:18:50,969 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 13094c5c310455390eed903560fb6c3e).
+2025-09-05 20:18:52,978 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 20:18:52,979 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 20:18:53,364 - bot.handlers.event_handler - INFO - 🌐 3 comandos sincronizados
+2025-09-05 20:27:36,182 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:27:36,183 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:27:36,223 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:27:36,223 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:27:36,223 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:27:36,223 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:27:36,223 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:27:36,223 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:27:36,224 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:27:36,225 - bot.core.bot - INFO - 📝 Comandos registrados
+2025-09-05 20:27:36,225 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:27:36,225 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:27:36,225 - discord.client - INFO - logging in using static token
+2025-09-05 20:27:36,997 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: e0cd73aca1d68882024754f5b3ee653e).
+2025-09-05 20:27:39,003 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 20:27:39,003 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 20:27:39,244 - bot.handlers.event_handler - INFO - 🌐 9 comandos sincronizados
+2025-09-05 20:38:58,645 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:38:58,646 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:38:58,669 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:38:58,669 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:38:58,669 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:38:58,669 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:38:58,669 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:38:58,669 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:38:58,669 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:38:58,670 - bot.core.bot - INFO - 📝 Comandos básicos registrados
+2025-09-05 20:38:58,670 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:38:58,670 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:38:58,670 - bot.core.bot - ERROR - ❌ Erro ao iniciar bot: GroqService.__init__() missing 1 required positional argument: 'api_key'
+2025-09-05 20:38:58,670 - __main__ - ERROR - ❌ Erro fatal: GroqService.__init__() missing 1 required positional argument: 'api_key'
+2025-09-05 20:38:58,670 - __main__ - INFO - 🛑 Bot finalizado
+2025-09-05 20:39:04,071 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:39:04,071 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:39:04,099 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:39:04,100 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:39:04,100 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:39:04,100 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:39:04,100 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:39:04,100 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:39:04,100 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:39:04,101 - bot.core.bot - INFO - 📝 Comandos básicos registrados
+2025-09-05 20:39:04,101 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:39:04,101 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:39:04,101 - bot.core.bot - ERROR - ❌ Erro ao iniciar bot: BotConfig.__init__() missing 2 required positional arguments: 'discord_token' and 'groq_api_key'
+2025-09-05 20:39:04,101 - __main__ - ERROR - ❌ Erro fatal: BotConfig.__init__() missing 2 required positional arguments: 'discord_token' and 'groq_api_key'
+2025-09-05 20:39:04,102 - __main__ - INFO - 🛑 Bot finalizado
+2025-09-05 20:39:14,217 - bot.config - INFO - ✅ Configurações carregadas com sucesso
+2025-09-05 20:39:14,218 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-09-05 20:39:14,248 - bot.services.groq_service - INFO - ✅ Serviço Groq inicializado
+2025-09-05 20:39:14,249 - bot.services.gif_service - INFO - ✅ Serviço GIF inicializado
+2025-09-05 20:39:14,249 - bot.handlers.error_handler - INFO - ✅ Handler de erros configurado
+2025-09-05 20:39:14,249 - bot.handlers.event_handler - INFO - ✅ Handler de eventos configurado
+2025-09-05 20:39:14,249 - bot.utils.security - INFO - ✅ Validador de segurança inicializado
+2025-09-05 20:39:14,249 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:39:14,249 - bot.commands.chat_commands - INFO - ✅ Comandos de chat inicializados
+2025-09-05 20:39:14,250 - bot.core.bot - INFO - 📝 Comandos básicos registrados
+2025-09-05 20:39:14,250 - bot.core.bot - INFO - 🤖 Bot inicializado com sucesso
+2025-09-05 20:39:14,250 - __main__ - INFO - 🚀 Iniciando bot do Discord...
+2025-09-05 20:39:14,251 - bot.utils.admin_actions - INFO - ✅ Executor de ações admin inicializado
+2025-09-05 20:39:14,251 - bot.commands.super_commands - INFO - ✅ Super comandos com autocomplete inicializados
+2025-09-05 20:39:14,251 - bot.core.bot - INFO - ✨ Super comandos com autocomplete carregados
+2025-09-05 20:39:14,251 - discord.client - INFO - logging in using static token
+2025-09-05 20:39:14,992 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 41834645d1fede0656935f4a54142816).
+2025-09-05 20:39:16,996 - bot.handlers.event_handler - INFO - ✅ Bot online como SKZGPT#2406
+2025-09-05 20:39:16,997 - bot.handlers.event_handler - INFO - 📊 Conectado a 1 servidor(es)
+2025-09-05 20:39:17,556 - bot.handlers.event_handler - INFO - 🌐 10 comandos sincronizados
